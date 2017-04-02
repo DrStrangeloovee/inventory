@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-03-20T00:44:38Z" product-name="vendorinventoryadvanced">
+		<header/>
+		<body>
+			<trans-unit id="tx_vendorinventoryadvanced_domain_model_vendorinventoryfe">
+				<source>Inventory</source>
+			</trans-unit>
+			<trans-unit id="tx_vendorinventoryadvanced_domain_model_vendorinventoryfe.description">
+				<source>This the advanced version of the inventory</source>
+			</trans-unit>
+			<trans-unit id="tx_vendorinventoryadvanced_domain_model_vendorinventorycategoryfe">
+				<source>Category</source>
+			</trans-unit>
+			<trans-unit id="tx_vendorinventoryadvanced_domain_model_vendorinventorycategoryfe.description">
+				<source>This the advanced version of the inventory</source>
+			</trans-unit>
+			<trans-unit id="name.description">
+				<source>name</source>
+			</trans-unit>
+			<trans-unit id="description.description">
+				<source>description</source>
+			</trans-unit>
+			<trans-unit id="quantity.description">
+				<source>quantity</source>
+			</trans-unit>
+			<trans-unit id="category_name.description">
+				<source>categoryName</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
