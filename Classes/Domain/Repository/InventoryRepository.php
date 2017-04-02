@@ -8,7 +8,7 @@ namespace VendorInventory\Vendorinventoryadvanced\Domain\Repository;
  * For the full copyright and license information, please read the
  * LICENSE.txt file that was distributed with this source code.
  *
- *  (c) 2017 Abusuefan Ali <abusufean.ali@gmail.com>, HTL Rennweg
+ *  (c) 2017 Marco Auenhammer <marco.auenhammer@gmail.com>, HTL Rennweg
  *
  ***/
 
