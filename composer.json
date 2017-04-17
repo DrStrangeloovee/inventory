@@ -1,0 +1,12 @@
+{
+	"name": "vendorInventory/vendorinventory",
+	"description": "",
+	"minimum-stability": "alpha",
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Marco Auenhammer",
+			"email": "marco.auenhammer@gmail.com"
+		}
+	]
+}
