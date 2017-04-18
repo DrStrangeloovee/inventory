@@ -1,6 +1,6 @@
 {
-	"name": "MyVendor/Inventory",
-	"description": "",
+	"name": "MyVendor/inventory",
+	"description": "inventory list",
 	"minimum-stability": "alpha",
 	"license": "proprietary",
 	"authors": [
