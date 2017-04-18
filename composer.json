@@ -1,5 +1,5 @@
 {
-	"name": "vendorInventory/vendorinventory",
+	"name": "MyVendor/Inventory",
 	"description": "",
 	"minimum-stability": "alpha",
 	"license": "proprietary",
@@ -8,5 +8,10 @@
 			"name": "Marco Auenhammer",
 			"email": "marco.auenhammer@gmail.com"
 		}
-	]
+	],
+	"autoload": {
+		"psr-4": {
+			"MyVendor\\Inventory\\": "Classes/"
+		}
+	}
 }
